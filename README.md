@@ -22,8 +22,10 @@ Before compiling the program, make sure the flags (inluded in the Makefile) are 
 
 
 #################################################################
+
 To run the program, oopen a terminal and simply run the 'make' and then 'make run' commands in the terminal.
 
 
 #################################################################
+
 Note: this is an initial implementation of the GSW scheme. More implementations, including two implementations of the RGSW scheme (Ring variant of the GSW scheme) will be provided soon.
