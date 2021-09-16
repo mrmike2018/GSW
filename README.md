@@ -1,4 +1,4 @@
-A C++ implementation of the GSW fully homomorphic encryption scheme using the NTL and GMP C++ libraries.
+A C++ implementation of the GSW Fully Homomorphic Encryption (FHE) scheme using the NTL and GMP C++ libraries.
 
 Sources:
 NTL C++ library: https://libntl.org/
